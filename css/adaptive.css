@@ -1,0 +1,70 @@
+@media (min-width: 320px) and (max-width: 768px) {
+    .ba-logo {
+        padding-left: 20px;
+        font-size: 1.5rem!important;
+    }
+
+    .mobile-menu {
+        margin-right: 0!important;
+    }
+
+    .ba-hero__title {
+        font-size: 2rem!important;
+    }
+
+    .slick-dots li button{
+        font-size: 1rem!important;
+        padding-top: 30px;
+    }
+
+    .fab {
+        font-size: 1rem!important;
+    }
+
+    .hero__decor--leaf-orange {
+        top: 5%;
+        width: 10%;
+        height: 15.5623vw;
+        width: 14.5623vw;
+    }
+
+    .hero__decor--dot-top {
+        top: 30%;
+    }
+
+    .hero__decor--dot-bottom {
+        top: 96%;
+    }
+
+    .hero__decor--leaf-blue-small {
+        top: 99%;
+        left: 5%;
+    }
+
+    .know-more p{
+        font-size: 1rem!important;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    h2 {
+        font-size: 2.5rem;
+    }
+
+    .skills-item-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        
+    }
+
+
+    .experience-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+  
+ 
+    }

@@ -1,0 +1,66 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="143" viewBox="0 0 137 143">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #f86ab1;
+        stroke-width: 3px;
+        opacity: 0.27;
+      }
+
+      .cls-2 {
+        stroke: #41228e;
+        stroke-linecap: round;
+        stroke-width: 11px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="341" y="1946" width="126" height="132" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="5.385"/>
+      <feFlood result="flood" flood-color="#f655a6" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="373.031" y="1976" width="62.125" height="70.16" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjIuMTI1IiBoZWlnaHQ9IjcwLjE2IiB2aWV3Qm94PSIwIDAgNjIuMTI1IDcwLjE2Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjYuNDk5IiB5MT0iNzAuMTYiIHgyPSI1NS42MjYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjAzIiBzdG9wLWNvbG9yPSIjZjU0ZWEyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC45NTIiIHN0b3AtY29sb3I9IiNmZGE0ZDEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjk3IiBzdG9wLWNvbG9yPSIjZmRhNGQxIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI2Mi4xMjUiIGhlaWdodD0iNzAuMTYiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <circle class="cls-1" cx="66.5" cy="71.5" r="32"/>
+  <g transform="translate(-335.5 -1940.5)" style="fill: none; filter: url(#filter)">
+    <path id="Ellipse_3_copy" data-name="Ellipse 3 copy" class="cls-2" d="M400.156,1976a35.075,35.075,0,1,1-27.124,57.25" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-335.5 -1940.5)" xlink:href="#Ellipse_3_copy" style="stroke: #41228e; filter: none; fill: none"/>
+</svg>
